@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gouravkrshaw16/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/gouravkrshaw16/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/gouravkrshaw16/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
