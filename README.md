@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/gouravkrshaw16/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gouravkrshaw16/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gouravkrshaw16/LeetCode/tree/master/0027-remove-element) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gouravkrshaw16/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gouravkrshaw16/LeetCode/tree/master/0002-add-two-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gouravkrshaw16/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
