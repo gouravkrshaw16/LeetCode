@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/gouravkrshaw16/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gouravkrshaw16/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gouravkrshaw16/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/gouravkrshaw16/LeetCode/tree/master/0035-search-insert-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gouravkrshaw16/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/gouravkrshaw16/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/gouravkrshaw16/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/gouravkrshaw16/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
